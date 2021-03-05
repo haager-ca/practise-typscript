@@ -17,7 +17,7 @@ function pflanzeBaeumeUndZeigeDauer(anzahlNeuerBaeume: number, nameDesFoersters:
         console.log(nameDesFoersters + " hat entweder zu viel oder zu wenig gearbeitet.");
 
     } else {
-        console.log(nameDesFoersters + " hat gut gearbeitet");
+        console.log(nameDesFoersters + " hat sehr gut gearbeitet");
 
     }
 
